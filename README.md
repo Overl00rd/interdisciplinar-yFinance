@@ -1,5 +1,5 @@
 # Y Finance
-
+Integrantes do grupo: Levi Sousa, Pedro Arruda, Vitor Silva e Vítor Rangel
 Aplicativo de organização e educação financeira com receitas, despesas, categorias, metas, recorrências automáticas, alertas internos, relatórios Excel e assistente local sem chave de IA.
 
 ## Instalar e executar
